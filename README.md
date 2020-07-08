@@ -8,4 +8,4 @@ Survey Form : https://benarjishyam.github.io/Responsive-Web-Design-free-CodeCamp
 
 Product-Landing-Page : https://benarjishyam.github.io/Responsive-Web-Design-free-CodeCamp-/3.Product-Landing-Page/index 
 
-Techincal-Documentation-Page : https://benarjishyam.github.io/Responsive-Web-Design-free-CodeCamp-/4.Techincal-Documentation-Pagee/index
+Techincal-Documentation-Page : https://benarjishyam.github.io/Responsive-Web-Design-free-CodeCamp-/4.Techincal-Documentation-Page/index
